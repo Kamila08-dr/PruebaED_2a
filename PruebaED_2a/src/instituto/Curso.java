@@ -8,7 +8,7 @@ import java.util.TreeSet;
 
 /**
  *
- * @author ProfDiurno
+ * @author ProfDiurn0
  */
 public class Curso {
 
